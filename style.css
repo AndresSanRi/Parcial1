@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#fondouno
+{
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+#fondodos
+{
+  background-image: linear-gradient(to right bottom, #ff0000, #fe5a00, #fa8500, #f3a900, #ebc812);
+}
+
+
+
+
